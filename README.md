@@ -1,3 +1,3 @@
-# JavaScript-Small-Exercices
+# JavaScript-Functions-Applications
 
-A new repository that regroups some small mini-projects which appear in the form of exercices where I apply all new stuff I learn about JS.
+One of many repositories designed to regroup many applicatives exercices in **JavaScript basics**, this one targeting **Functions**.
